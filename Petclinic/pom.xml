@@ -444,7 +444,7 @@
 <version>2.2</version> 
 <configuration> 
 <url>http://localhost:8085/manager/text</url> 
-<server>apache-tomcat</server> 
+<id>apache-tomcat</id> 
     <username>admin</username>
     <password>admin</password>
 <path>/my-webapp</path> 
