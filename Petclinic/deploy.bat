@@ -1,2 +1,2 @@
-cd C:\Users\srinivas\Downloads\spring-petclinic-master
-mvn clean compile test package tomcat7:deploy 
+cd C:\Users\Madan\.jenkins\workspace\generatereportsandarchives\Petclinic
+mvn clean compile test package
